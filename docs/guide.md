@@ -4,4 +4,10 @@ Welcome to the playground.
 
 ## Setup
 
-Run the service and connect on port 8080.
+1. Install dependencies.
+2. Run the service.
+3. Connect on port 8080.
+
+## Troubleshooting
+
+Check the logs if the service does not start.
